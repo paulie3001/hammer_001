@@ -1,4 +1,4 @@
 hammer_001
 ==========
 
-Imaging unit using KB's / CBR
+Imaging unit using KB's / CBR / Java API
